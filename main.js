@@ -50,10 +50,10 @@ function loadslider(list) {
     }
     $(".img-banner").append(`<img src="${list[0].image}" class="border-0 img-thumbnail"style="
     height: 300px; width:300px" alt="" srcset="">`);
-    $(".logo1").append(`<img src="${list[1].image}" class="border-0 img-thumbnail"style="
-    height: 100px; width:100px" alt="" srcset="">`);
-    $(".logo2").append(`<img src="${list[2].image}" class="border-0 img-thumbnail"style="
-    height: 100px; width:100px" alt="" srcset="">`);
+    // $(".logo1").append(`<img src="${list[1].image}" class="border-0 img-thumbnail"style="
+    // height: 100px; width:100px" alt="" srcset="">`);
+    // $(".logo2").append(`<img src="${list[2].image}" class="border-0 img-thumbnail"style="
+    // height: 100px; width:100px" alt="" srcset="">`);
     loadSlider();
 }
 
