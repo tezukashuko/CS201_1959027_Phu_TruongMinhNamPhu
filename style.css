@@ -1,0 +1,60 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+.banner{
+
+}
+
+
+.navbar {
+  transition: 0.4s ease-out;
+}
+
+.top-rating {
+  position: relative;
+}
+.slider-arrow {
+  background: none;
+  opacity: 0.5;
+  position: absolute;
+  overflow: visible;
+}
+.my-slider{
+   padding-right: 15px;
+}
+.rightcenter {
+  right: 1rem;
+  top: 50%;
+  bottom: auto;
+}
+.leftcenter {
+  left: 1rem;
+  top: 50%;
+  bottom: auto;
+}
+.auto {
+  display: none;
+}
+
+
+
+footer > * {
+    color: white;
+}
+
+.footer-title {
+ margin-bottom: 20px;
+}
+
+.footer-content {
+    font-size: 0.7rem;
+}
+
+.footer-social-icons img {
+    width: 30px;
+}
